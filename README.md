@@ -1,2 +1,2 @@
-# dentist-recption
+# dentist-reception
 ai dentist receptionist
